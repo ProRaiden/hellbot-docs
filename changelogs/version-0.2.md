@@ -1,0 +1,25 @@
+---
+description: 'Released: June 26, 2021'
+---
+
+# Version 0.2
+
+## :rocket: _<mark style="color:red;">**Hêllẞø† α - 0.2**</mark>_
+
+* Fixed Pmpermit.
+* Added Video and Gifs support in Inline Alive or `.hell` command.
+* Improved Help Menu.
+* Fixed Climate Module.
+* Fixed Block, Approve, Disapprove Commands to work in groups too.
+* Fixed Profile Name Edit Command or `.pname`.
+* Fixed Unzip, unrar, untar commands.
+* Fixed Some commands for sudo.
+* Now you can mute users in PM by `.mute`.
+* Fixed bot crashing after 3 restarts.
+* Fixed `.dm` command.
+* Inline Help menu now support sudo.
+* Added a plugin to make Doge Stickers. Do `.plinfo memify` to know more.
+* Since nekobin and dogbin are down, `.logs` will give Heroku logs of 100 lines in .txt file.
+* Increased Stability.
+* Increased security a little bit.
+* Fixed minor bugs. < Actually nothing XD >
