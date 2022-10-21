@@ -12,8 +12,8 @@ This website contains all the required information for HellBot Projects. You'll 
 
 ### <mark style="color:red;">HellBot Projects:</mark>
 
-* _<mark style="color:purple;">**`HellBot Userbot`**</mark>_
-* _<mark style="color:purple;">**`HellBot MusicBot`**</mark>_
+* _<mark style="color:purple;">****</mark>_[_<mark style="color:purple;">**HellBot Userbot**</mark>_](broken-reference)_<mark style="color:purple;">****</mark>_
+* _<mark style="color:purple;">**HellBot MusicBot**</mark>_
 
 ### <mark style="color:red;">Why HellBot?</mark>
 

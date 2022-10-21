@@ -6,7 +6,7 @@ description: A page with mandatory and common config variables.
 
 ### :tickets: Environment Variables
 
-These are the variables stored in database. Setting/deleting these variables needs bot to restart.
+These are the variables stored in system environment. Setting/deleting these variables needs bot to restart.
 
 _**Setup command:** `.set var variable_name variable_value`_
 
