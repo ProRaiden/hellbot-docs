@@ -19,3 +19,9 @@ Official HellBot Userbot Repo
 * Now turn on the dynos by toggling the pencil icon.
 * Your bot should be ready in another minute if everything goes fine.
 
+### Generate Deploy URL:
+
+[//]:
+<iframe src="interact/index.html" width="100%" height="300" frameborder="0"></iframe>
+[//]:
+
