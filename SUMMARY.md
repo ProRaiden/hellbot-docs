@@ -32,3 +32,4 @@
 * [Version 1.1](changelogs/version-1.1.md)
 * [Version 1.2](changelogs/version-1.2.md)
 * [Version 1.3](changelogs/version-1.3.md)
+* [Version 1.4](changelogs/version-1.4.md)
