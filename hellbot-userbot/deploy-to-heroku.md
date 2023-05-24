@@ -8,7 +8,7 @@ description: A heroku deploy guide
 Official HellBot Userbot Repo
 {% endembed %}
 
-### Steps to deploy on Heroku:
+Steps to deploy on Heroku:
 
 * Fork & Star this [repo.](https://github.com/The-HellBot/HellBot)
 * If you don't fork & star the repo you won't be able to deploy.
@@ -21,9 +21,6 @@ Official HellBot Userbot Repo
 
 ### Generate Deploy URL:
 
-[//]:
-
-<iframe src="interact/index.html" width="100%" height="300" frameborder="0"></iframe>
-
-[//]:
-
+{% embed url="https://replit.com/@TheHellBot/HerokuDeployURL" %}
+Repl to generate Heroku deploy URL
+{% endembed %}
