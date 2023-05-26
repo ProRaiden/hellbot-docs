@@ -20,6 +20,7 @@
 
 ## Changelogs
 
+* [Changelog History](changelogs/changelog-history.md)
 * [Version 0.2](changelogs/version-0.2.md)
 * [Version 0.3](changelogs/version-0.3.md)
 * [Version 0.4](changelogs/version-0.4.md)
