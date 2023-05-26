@@ -35,11 +35,11 @@ description: Guide to generate a session string using Repl.it
 HellBot's Official Repl.it
 {% endembed %}
 
-## Error while Generating Session
+## <mark style="color:red;">Error while Generating Session</mark>
 
 Due to telegram's new and updating privacy & policies, many users have been facing a problem while generating the session from the repl. This is because telegram detects so many requests from the same network and it refuses to connect through it.  And since hellbot only works with its personal session that is known as HellBot Session that can only be generated using HellBot's official repl, you won't be able to generate any session whatsoever.
 
-#### Using Terminal
+### Using Terminal
 
 This issue can be bypassed when you're using a VPS or RDP or a Local Machine to host hellbot.  You can simply run a python script in the terminal.
 
@@ -47,7 +47,7 @@ This issue can be bypassed when you're using a VPS or RDP or a Local Machine to 
 
 Using this command mentioned above you can run the session generator file and generate hellbot session which will be automatically saved in your telegram's saved message. Then you only need to copy that session and paste it in your config vars.
 
-#### Heroku
+### Heroku
 
 If you're using heroku or any other platform to deploy hellbot, you can always generate the session in their terminal. Here we will talk about Heroku as it is widely in use.
 
